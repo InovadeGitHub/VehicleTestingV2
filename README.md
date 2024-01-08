@@ -1,5 +1,1 @@
-The long awaited V2 of VehicleTesting
-
-# Why V2 will be better
-
-1. Because I am so good
+# The long awaited sequel to VehicleTesting (no one has been waiting for this)
