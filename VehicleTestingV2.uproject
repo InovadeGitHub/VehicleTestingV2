@@ -117,6 +117,10 @@
 				"Android",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
